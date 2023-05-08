@@ -1,3 +1,4 @@
+### Java八股文仓库收集，也欢迎大家补充
 * [Java is Growing up but not only Java。Java成长路线，但学到不仅仅是Java。](https://github.com/javagrowing/JGrowing)
 * [开发内功修炼](https://github.com/yanfeizhang/coder-kung-fu)
 * [Java 工程师必备架构体系知识总结：涵盖分布式、微服务、RPC等互联网公司常用架构，以及数据存储、缓存、搜索等必备技能](https://github.com/Jstarfish/JavaKeeper)
@@ -21,10 +22,8 @@
 * [sites.google.com](https://sites.google.com/site/javahuide9/home)
 * [从零开始，系统得梳理一遍一个合格的 Java web 工程师所必备的所有知识体系](https://github.com/SingleYam/overview_java)
 * [Java 面试必会 直通BAT](https://github.com/gzc426/Java-Interview)
-* []()https://blog.csdn.net/Thousa_Ho/article/details/77145422
-* []()https://gitee.com/moxi159753/LearningNotes
-* []()http://notfound9.github.io/interviewGuide/#/docs/JavaBasichttps://github.com/zaiyunduan123/Java-Summarize/blob/master/notes/scene/Scene-Design.mdhttps://github.com/xingshaocheng/architect-awesomehttps://github.com/pinefor1983/CS-Growing-bookhttps://github.com/fangjian0423/deep-in-spring-cloud-sampleshttps://doocs.github.io/jvm/#/https://github.com/superhj1987/pragmatic-java-engineer
-* []()https://github.com/javagrowing/JGrowing
-* []()https://github.com/fangjian0423/deep-in-spring-cloud-samples
-* []()https://doocs.github.io/jvm/#/
-* []()https://github.com/xingshaocheng/architect-awesome
+* [操作系统 重点知识复习总结](https://blog.csdn.net/Thousa_Ho/article/details/77145422)
+* [Java学习笔记](https://gitee.com/moxi159753/LearningNotes)
+* [大厂面试指北](http://notfound9.github.io/interviewGuide/#/)
+* [Java成长路线，但学到不仅仅是Java。](https://github.com/javagrowing/JGrowing)
+* [深入理解 Java 虚拟机——JVM 高级特性与最佳实践(第 2/3 版)](https://doocs.github.io/jvm/#/)
