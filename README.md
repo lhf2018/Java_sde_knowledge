@@ -27,3 +27,4 @@
 * [大厂面试指北](http://notfound9.github.io/interviewGuide/#/)
 * [Java成长路线，但学到不仅仅是Java。](https://github.com/javagrowing/JGrowing)
 * [深入理解 Java 虚拟机——JVM 高级特性与最佳实践(第 2/3 版)](https://doocs.github.io/jvm/#/)
+* [JavaCore 是对 Java 核心技术的经验总结。](https://dunwu.github.io/javacore/)
