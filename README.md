@@ -28,3 +28,7 @@
 * [Java成长路线，但学到不仅仅是Java。](https://github.com/javagrowing/JGrowing)
 * [深入理解 Java 虚拟机——JVM 高级特性与最佳实践(第 2/3 版)](https://doocs.github.io/jvm/#/)
 * [JavaCore 是对 Java 核心技术的经验总结。](https://dunwu.github.io/javacore/)
+* [二哥的Java进阶之路](https://javabetter.cn/)
+* [小林 x 图解计算机基础](https://xiaolincoding.com/)
+* [Java 全栈知识体系](https://pdai.tech/)
+* [⩓ Top K统计超过 2000篇 真实面经的高频面试题](https://osjobs.net/topk/)
